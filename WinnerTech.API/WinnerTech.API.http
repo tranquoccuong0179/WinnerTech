@@ -1,0 +1,6 @@
+@WinnerTech.API_HostAddress = http://localhost:5124
+
+GET {{WinnerTech.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
